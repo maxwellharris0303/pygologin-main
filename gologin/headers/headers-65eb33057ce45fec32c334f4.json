@@ -1,0 +1,19 @@
+{
+    "authority": "bck.hermes.com",
+    "Accept": "application/json, text/plain, */*",
+    "accept-language": "en",
+    "Cookie": "x-xsrf-token=ed6a6efe-c09c-45b1-98aa-e1a9868407a1;ECOM_SESS=xvp7f2ngevwtjmqlhy8tx4y5li;correlation_id=mlk9i8qt4flb425iiqup2te4ab7y1l9pnjsn801ue0enhsqpqwyfc4t435nku7py;datadome=anP9Bp9XjvXRX1JMyaGeLVB5vlQW2bbIowCoatwVRxkAA92~k1R3q3UCVa0XV_YxDPmWv9qygcl7f85bg7cC_bkJucVYB8QEI4ULhMBlgONXKEu9MzsryiZc6KVy4oCt",
+    "DNT": "1",
+    "Origin": "https://www.hermes.com",
+    "Referer": "https://www.hermes.com/",
+    "sec-ch-ua": "\"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Linux\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "x-hermes-locale": "us_en",
+    "x-xsrf-token": "ed6a6efe-c09c-45b1-98aa-e1a9868407a1",
+    "proxy_username": "brd-customer-hl_541e29d0-zone-residential_proxy1-session-619d121e9c69707c2270"
+}
